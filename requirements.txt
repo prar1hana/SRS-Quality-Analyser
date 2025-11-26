@@ -1,0 +1,6 @@
+gradio
+spacy
+mammoth
+beautifulsoup4
+PyMuPDF
+docx2txt
